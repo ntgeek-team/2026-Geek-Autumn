@@ -18,7 +18,7 @@
 **❗❗❗注意：考核期所有笔记/文档须为 `.md` 格式，当前与此后的所有任务内容均上传至你在 `GitHub`创建的名为 Tasks 的仓库**
 
 1. 用上你学的 Markdown 语法，组织一份整洁规范的文档，跟我们说说：
-   - 你觉得什么是Geek，什么又是 Geek 精神？
+   - 你觉得什么是 Geek ，什么又是 Geek 精神？
    - GitHub 是干什么的？
      Pull Request、Fork 这些词你是怎么理解的，又是从哪里学到的？
    - 有学长当年光是打开 GitHub 网站就花了半天，你有过类似经历吗？
@@ -35,7 +35,7 @@
 
 4. **[选做-进阶]** 了解 Markdown 的底层原理，探索一下你的编辑器还有什么奇妙或者方便的功能，写成文档分享给大家和未来的学弟学妹吧。
 
-5. **[选做-进阶]**探索一下Markdown的局限，哪些笔记类型是Markdown不擅长的呢？你又找到了哪些软件来做这类笔记呢？（同样写入Markdown进阶笔记）
+5. **[选做-进阶]**探索一下 Markdown 的局限，哪些笔记类型是 Markdown 不擅长的呢？你又找到了哪些软件来做这类笔记呢？（同样写入Markdown进阶笔记）
 
 ### 📑这阶段后，你的仓库里应该有
 
@@ -90,7 +90,7 @@
 
 1. 学习 Git 的基本流程（clone、add、commit、push 等），并尝试**使用 Git Bash 完成**基本操作
 
-2. 学习如何与他人在`Github` 上协作完成项目
+2. 学习如何与他人在 `Github` 上协作完成项目
 
 ### 📑任务内容
 
@@ -144,7 +144,7 @@
 
 ### 📑任务目标
 
-1. 👉使用 HTML、CSS 与 JS 制作**一个属于你自己的静态网页**，展示任何你想展示的内容，然后使用`Github Pages` 部署该页面。👈
+1. 👉使用 HTML、CSS 与 JS 制作**一个属于你自己的静态网页**，展示任何你想展示的内容，然后使用 `Github Pages` 部署该页面。👈
 
    - **致如此努力的你**： 
 
@@ -185,7 +185,7 @@
 
 ### 💕友情提示
 
-1. 推荐：[菜鸟教程](https://www.runoob.com/)；[w3school 在线教程](https://www.w3school.com.cn/)； [廖雪峰JS教程](https://liaoxuefeng.com/books/javascript/quick-start/basic-syntax/index.html) ；
+1. 推荐：[菜鸟教程](https://www.runoob.com/)；[w3school 在线教程](https://www.w3school.com.cn/)； [廖雪峰 JS 教程](https://liaoxuefeng.com/books/javascript/quick-start/basic-syntax/index.html) ；
    [小破站](https://www.bilibili.com/)（建议学习每个之前都先去找一些视频教程来看，先从大体了解一个东西是什么，然后再去看文档，边看边 Coding 是最好了）
 2. 教程不需要过于深入学习，学习35%左右与能够支持完成你的项目就好。
    本阶段并不是要求大家在这个时间节点内学习透彻这三项，所以不要有心理压力。
@@ -256,16 +256,16 @@ graph LR
 
 - 必修项（必须完成的任务）
 
-  1. 学习使用**GithubDesktop**管理unity游戏项目
-     1. 游戏项目使用GithubDesktop管理
+  1. 学习使用 **GithubDesktop** 管理 unity 游戏项目
+     1. 游戏项目使用 GithubDesktop 管理
      2. 掌握可视化界面的常用操作
 
-  2. 制作**[Ruby's Adventure](https://www.sikiedu.com/my/course/650)**，过程中注意学习以下内容    
-     1. 了解unity工程面板
+  2. 制作 **[Ruby's Adventure](https://www.sikiedu.com/my/course/650)**，过程中注意学习以下内容    
+     1. 了解 unity 工程面板
      2. 组件的概念与理解
      3. 物体的物理系统
-     4. 动画系统，粒子系统，Cinemachine工具包
-     5. 敌人AI的制作
+     4. 动画系统，粒子系统，Cinemachine 工具包
+     5. 敌人 AI 的制作
      6. UGUI
      7. 完整游戏流程梳理
 - 通用可选项（选修完成其几）
@@ -279,13 +279,13 @@ graph LR
 
 1. 产出**阶段四-4.2**学习总结，做好README索引。
 2. **完成必修项的任务**
-3. **Ruby's adventure**添加宠物跟随功能（自己找一个素材当宠物），平滑跟随角色移动（角色加速时宠物还没动，减速时宠物匀速移动，有一个弹性时间）
-4. 在github创建对应游戏的仓库，**将游戏项目上传到仓库**。将游戏运行程序发给检查人员。
+3. **Ruby's adventure** 添加宠物跟随功能（自己找一个素材当宠物），平滑跟随角色移动（角色加速时宠物还没动，减速时宠物匀速移动，有一个弹性时间）
+4. 在 github 创建对应游戏的仓库，**将游戏项目上传到仓库**。将游戏运行程序发给检查人员。
 
 #### 💕友情提示
 
-1. 推荐去官网下载使用Unity 2022.3 LTS (2022.3.62f3)LTS版本的unity
-2. [使用GitHub Desktop管理你的项目](https://www.bilibili.com/video/BV13W411U7HY/?spm_id_from=333.788.recommend_more_video.2&vd_source=99f7033efb216e152f86d8f8a2de3848)
+1. 推荐去官网下载使用 Unity 2022.3 LTS (2022.3.62f3)LTS 版本的 unity
+2. [使用 GitHub Desktop 管理你的项目](https://www.bilibili.com/video/BV13W411U7HY/?spm_id_from=333.788.recommend_more_video.2&vd_source=99f7033efb216e152f86d8f8a2de3848)
 3. 考核任务有描述不理解的地方可咨询负责人员
 
 #### 📅**第四阶段检查时间**
